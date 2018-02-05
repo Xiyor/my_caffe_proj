@@ -1,0 +1,5 @@
+[preprocess]
+image_width = 256
+image_height = 256
+HE_flag = 1
+interpolation = "INTER_CUBIC"  # resize的方式
